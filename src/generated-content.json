@@ -1,0 +1,168 @@
+{
+  "essays": [
+    {
+      "title": "Can capitalism survive AI?",
+      "meta": "technology / 31 min",
+      "deck": "Jobs, power and purpose in an age of accelerating intelligence.",
+      "body": "<p>Jobs, power and purpose in an age of accelerating intelligence. Not doom, not hype - just a careful look at incentives, dignity and what work used to give us.</p>\n<h3>The Incentive Loop</h3>\n<p>Capitalism thrives on productivity. But when intelligence becomes abundant and virtually free, the classical relationship between labor, capital, and consumption breaks down.</p>\n<ol>\n<li><strong>Labor Substitution</strong>: Machines no longer just automate hands; they automate minds.</li>\n<li><strong>Capital Concentration</strong>: The value of intelligence accrues to those who own the models.</li>\n<li><strong>The Consumption Crisis</strong>: If humans do not earn wages, who buys the products of automated abundance?</li>\n</ol>\n<p>We must rethink dignity and work before the loop closes on us.</p>\n",
+      "tone": "indigo",
+      "topics": [
+        "AI",
+        "technology",
+        "future",
+        "politics"
+      ],
+      "slug": "can-capitalism-survive-ai"
+    },
+    {
+      "title": "Why are cities making us unhappy?",
+      "meta": "cities / 18 min",
+      "deck": "On design, distance and the loneliness of the concrete age.",
+      "body": "<p>On design, distance and the loneliness of the concrete age. A note from metro platforms, rented rooms, gated colonies and streets that forgot how to host people.</p>\n<h3>The Architecture of Isolation</h3>\n<p>Modern cities are built for transit and transaction, not habitation and hospitality.</p>\n<ul>\n<li><strong>Commutes as Walls</strong>: The distance we travel to sell our hours isolates us from our neighbors.</li>\n<li><strong>The Death of Third Places</strong>: Benches require purchases; parks are locked behind security gates; tea stalls are replaced by cafes that charge for presence.</li>\n<li><strong>Concrete is Silent</strong>: We live closer than ever, yet hear only the hum of air conditioners.</li>\n</ul>\n<p>A city must remember the body, or it becomes a beautiful prison.</p>\n",
+      "tone": "green",
+      "topics": [
+        "cities",
+        "architecture",
+        "culture"
+      ],
+      "slug": "why-are-cities-making-us-unhappy"
+    },
+    {
+      "title": "Why do humans need meaning?",
+      "meta": "philosophy / 22 min",
+      "deck": "A conversation between science, spirituality and civilization.",
+      "body": "<p>A conversation between science, spirituality and civilization. We look at meaning as a public resource - something built in families, libraries, temples, studios, streets and friendships.</p>\n<h3>The Search for Purpose</h3>\n<p>In an age dominated by metrics and efficiency, the human hunger for meaning remains our most stubborn characteristic. We are not merely input-output machines.</p>\n<ul>\n<li>We build sanctuaries of quiet.</li>\n<li>We read old books to find friends who died centuries ago.</li>\n<li>We ask questions that have no financial value.</li>\n</ul>\n<p>Meaning is the climate of the human soul. When it degrades, we feel the drought.</p>\n",
+      "tone": "red",
+      "topics": [
+        "philosophy",
+        "religion",
+        "consciousness"
+      ],
+      "slug": "why-do-humans-need-meaning"
+    }
+  ],
+  "letters": [
+    {
+      "title": "Humanity is still loading",
+      "meta": "letter 09",
+      "deck": "A small meditation on errors, updates, compassion and moral life.",
+      "body": "<p>A small meditation on errors, updates, compassion and the unfinished software of moral life.</p>\n<h3>The Unfinished Creature</h3>\n<p>We are quick to judge ourselves and others as complete, static entities. But moral development is a slow, iterative process.</p>\n<p>Be patient with the bugs. The code is old, the environment is changing, and the patch is still being written.</p>\n",
+      "tone": "green",
+      "topics": [
+        "future",
+        "philosophy",
+        "love"
+      ],
+      "slug": "humanity-is-still-loading"
+    },
+    {
+      "title": "No gurus, just questions",
+      "meta": "letter 08",
+      "deck": "Why charismatic certainty is seductive, why humility is harder.",
+      "body": "<p>Why charismatic certainty is seductive, why humility is harder and how groups can stay alive without becoming cages.</p>\n<h3>The Allure of Certainty</h3>\n<p>It is easy to follow someone who promises they know the way. It relieves us of the heavy work of thinking. But a room of disciples is always silent, except for one voice.</p>\n<p>We prefer the messy, slow, democratic friction of shared doubts.</p>\n",
+      "tone": "saffron",
+      "topics": [
+        "philosophy",
+        "religion",
+        "culture"
+      ],
+      "slug": "no-gurus-just-questions"
+    },
+    {
+      "title": "Wake up gently",
+      "meta": "letter 07",
+      "deck": "A note on mornings, phones, inherited anxieties and attention.",
+      "body": "<p>A note on mornings, phones, inherited anxieties and the radical act of not beginning the day as a consumer.</p>\n<h3>The First Hour</h3>\n<p>Do not let the world rush in before you are fully awake. The notifications on your lockscreen are other people&#39;s priorities, not your life.</p>\n<p>Take fifteen minutes. Look at the light on the wall. Drink your water. Remember who you are before you remember what you have to do.</p>\n",
+      "tone": "red",
+      "topics": [
+        "culture",
+        "consciousness",
+        "technology"
+      ],
+      "slug": "wake-up-gently"
+    }
+  ],
+  "interviews": [
+    {
+      "title": "Can software have a conscience?",
+      "meta": "engineer / bengaluru",
+      "deck": "On code, incentives, attention, open knowledge and the quiet violence of interfaces.",
+      "body": "<p>On code, incentives, attention, open knowledge and the quiet violence of interfaces that make people smaller.</p>\n<h3>The Architecture of Capture</h3>\n<p>An interview with a veteran software engineer from Bengaluru on the ethics of modern product design.</p>\n<ul>\n<li><strong>Attention Farming</strong>: How metrics like Daily Active Users (DAU) incentivize addictive design patterns.</li>\n<li><strong>The Invisible Friction</strong>: How interfaces can either respect human agency or treat humans as resources to be mined.</li>\n<li><strong>Alternative Paths</strong>: Open source, decentralized protocols, and local-first software.</li>\n</ul>\n",
+      "tone": "indigo",
+      "topics": [
+        "technology",
+        "AI",
+        "future"
+      ],
+      "slug": "can-software-have-a-conscience"
+    },
+    {
+      "title": "What does a humane city remember?",
+      "meta": "architect / auroville",
+      "deck": "A conversation about shaded streets, water, material honesty and concrete.",
+      "body": "<p>A conversation about shaded streets, water, material honesty and why concrete can feel lonely when it forgets the body.</p>\n<h3>Shaded Streets and Human Scales</h3>\n<p>We sat down with an architect from Auroville to discuss how design shapes our inner lives.</p>\n<blockquote>\n<p>&quot;A street is not a sewer for cars. It is a room with the sky for a ceiling. If you shade it, people will walk. If you walk, you will talk. If you talk, you are no longer strangers.&quot;</p>\n</blockquote>\n<p>We discuss water conservation, local stones, and the spiritual cost of cheap materials.</p>\n",
+      "tone": "green",
+      "topics": [
+        "cities",
+        "architecture",
+        "ecology",
+        "climate"
+      ],
+      "slug": "what-does-a-humane-city-remember"
+    },
+    {
+      "title": "What does longing sound like after midnight?",
+      "meta": "musician / delhi",
+      "deck": "A talk about ghazals, house music, memory, exile and the shared chorus.",
+      "body": "<p>A talk about ghazals, house music, memory, exile and the strange democracy of a shared chorus.</p>\n<h3>The Mid-night Chorus</h3>\n<p>In a quiet studio in Delhi, we explore the sonic history of longing.</p>\n<ul>\n<li><strong>Ghazals as Maps</strong>: How classical poetry maps the geography of absence.</li>\n<li><strong>House Music</strong>: The repetitive beat as a communal trance, a modern ritual for the lonely.</li>\n<li><strong>Exile and Home</strong>: Sound as the only portable homeland for displaced populations.</li>\n</ul>\n",
+      "tone": "red",
+      "topics": [
+        "culture",
+        "love",
+        "history"
+      ],
+      "slug": "what-does-longing-sound-like-after-midnight"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "Are cities bad at friendship?",
+      "meta": "episode 02",
+      "deck": "Concrete, commute, rent, public benches, third places and design.",
+      "body": "<p>Concrete, commute, rent, public benches, third places and the social life that urban design either permits or punishes.</p>\n<h3>Episode Notes</h3>\n<p>Why is it so hard to make friends in your thirties in a metropolis? We look at how physical layouts, transit times, and commercial pressures isolate us from one another.</p>\n",
+      "tone": "green",
+      "topics": [
+        "cities",
+        "architecture",
+        "culture"
+      ],
+      "slug": "are-cities-bad-at-friendship"
+    },
+    {
+      "title": "Spirituality after certainty",
+      "meta": "episode 03",
+      "deck": "A conversation about Vedanta, Buddhism, science, doubt and depth.",
+      "body": "<p>A conversation about Vedanta, Buddhism, science, doubt and the possibility of depth without domination.</p>\n<h3>Episode Notes</h3>\n<p>Can you have a deep spiritual practice without believing in dogmas, miracles, or infallible masters? We trace a path through skepticism, meditation, and awe.</p>\n",
+      "tone": "saffron",
+      "topics": [
+        "philosophy",
+        "religion",
+        "consciousness"
+      ],
+      "slug": "spirituality-after-certainty"
+    },
+    {
+      "title": "The revolution begins with attention",
+      "meta": "episode 01",
+      "deck": "Why doomscrolling feels like participation and how to recover attention.",
+      "body": "<p>Why doomscrolling feels like participation and what it means to recover attention without becoming a productivity bro.</p>\n<h3>Episode Notes</h3>\n<p>In this episode, we talk about the difference between passive exposure and active attention. Attention is the only currency that cannot be printed. When we sell it to the feed, we sell our ability to make history.</p>\n",
+      "tone": "red",
+      "topics": [
+        "technology",
+        "culture",
+        "consciousness"
+      ],
+      "slug": "the-revolution-begins-with-attention"
+    }
+  ]
+}
