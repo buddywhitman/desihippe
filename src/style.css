@@ -40,6 +40,12 @@ body.dark-mode {
   --soft-rule: rgba(252, 251, 247, 0.1);
   --surface: rgba(252, 251, 247, 0.055);
   --shadow: 0 24px 90px rgba(0, 0, 0, 0.24);
+
+  --red: #ff8b94;
+  --green: #81c784;
+  --indigo: #9fa8da;
+  --earth: #e0a96d;
+  --saffron: #ffd54f;
 }
 
 * {
@@ -729,6 +735,10 @@ h2 {
 
 .tone-saffron {
   color: #b46d00;
+}
+
+body.dark-mode .tone-saffron {
+  color: var(--saffron);
 }
 
 .topic-dot.is-held {
